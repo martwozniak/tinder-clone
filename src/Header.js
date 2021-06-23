@@ -8,10 +8,10 @@ function Header() {
     return (
         <div className='header'>
             <IconButton>
-            <PersonIcon fontSize="large" className="header__icon"/>
+                <PersonIcon fontSize="large" className="header__icon"/>
             </IconButton>
             
-            <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53b.png" className="header__logo" alt=""/>
+            <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53b.png" className="header__logo" alt="App Logo"/>
 
             <IconButton>
             <ForumIcon fontSize="large" className="header__icon"/>
